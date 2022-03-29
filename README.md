@@ -1,2 +1,2 @@
 # cla-testing
-test-cla,2
+test-cla,3
